@@ -1,0 +1,38 @@
+declare const styles: {
+    themeDark: string;
+    eventStyleSetter: string;
+    dayPropGetter: string;
+    Documentcard: string;
+    previewEventIcon: string;
+    locationIcon: string;
+    location: string;
+    DocumentCardDetails: string;
+    eventStyle: string;
+    DocumentCardTitle: string;
+    DocumentCardTitleTime: string;
+    calendar: string;
+    container: string;
+    plainCard: string;
+    eventTitle: string;
+    row: string;
+    column: string;
+    'ms-Grid': string;
+    title: string;
+    subTitle: string;
+    description: string;
+    button: string;
+    label: string;
+    'rbc-selected-cell': string;
+    'rbc-event': string;
+    'rbc-today': string;
+    'rbc-off-range-bg': string;
+    'rbc-toolbar': string;
+    'rbc-active': string;
+    'rbc-show-more': string;
+    'rbc-ellipsis': string;
+    'rbc-event-label': string;
+    'rbc-row-segment': string;
+    'rbc-event-content': string;
+};
+export default styles;
+//# sourceMappingURL=Calendar.module.scss.d.ts.map
